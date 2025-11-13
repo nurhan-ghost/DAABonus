@@ -39,4 +39,3 @@ Map<String, List<Integer>> results = ac.search(text);
 
 ## Author
 Turganbek Nurhan SE-2435
-```
